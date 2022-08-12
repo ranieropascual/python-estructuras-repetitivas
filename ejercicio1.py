@@ -1,5 +1,5 @@
 print("-----------------------------------------------------------------")
-print("ejercicio2 calcula el interes")
+print("ejercicio1 calcula el interes")
 print("-----------------------------------------------------------------")
 #inicializacion
 C=-1
